@@ -1,5 +1,5 @@
 ---
-title: Visual Culture in Niagara
+title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
